@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1707269778 source:c:\estructuradatos\matriz\matriz.cpp
+	<math.h>
+	<iomanip>
+	<cstring>
+	<cmath>
+	"Matriz.hpp"
+
+1707272142 c:\estructuradatos\matriz\matriz.hpp
+	<iostream>
+	<iostream>
+	"Matriz.hpp"
+
+1720469384 source:c:\matrix\matrix\matriz\matriz.cpp
+	<math.h>
+	<iomanip>
+	<cstring>
+	<cmath>
+	"Matriz.hpp"
+
+1720469870 c:\matrix\matrix\matriz\matriz.hpp
+	<iostream>
+	<iostream>
+	"Matriz.hpp"
+
